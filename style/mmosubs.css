@@ -1,0 +1,22 @@
+.mmosub-principal{
+    font-size: 15px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/mmosubs-img/wow.jpg');
+    
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.mmosub-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 90px;
+
+}
+
+.mmosub-principal .container{
+    width: 70%;
+}

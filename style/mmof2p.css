@@ -1,0 +1,22 @@
+.mmof2p-principal{
+    font-size: 15px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/mmof2p-img/Tree-of-Savior-image-new.jpg');
+    
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.mmof2p-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 90px;
+
+}
+
+.mmof2p-principal .container{
+    width: 70%;
+}
